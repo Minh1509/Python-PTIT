@@ -1,0 +1,1 @@
+{"name":"Local: PYKT037_doi_co_so","url":"e:\\Ki 1 Nam 3\\Python\\Bien_va_kieu_du_lieu\\PYKT037_doi_co_so.py","tests":[{"id":1693886698603,"input":"3\n10 2\n2021 2\n31 16","output":"1010\n11111100101\n1F"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Ki 1 Nam 3\\Python\\Bien_va_kieu_du_lieu\\PYKT037_doi_co_so.py","group":"local","local":true}
